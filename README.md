@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Jad Nader
 
-<!--
-**jadanado2003/jadanado2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate ICT/software developer based in NSW, Australia, with an interest in building practical web and desktop applications.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in software development, web applications, desktop tools, and user-focused projects
+- Currently building portfolio projects using React, TypeScript, Python, and Tkinter
+- Focused on improving my coding skills, UI design, project structure, and real-world problem solving
+- Actively applying for graduate ICT/software development roles
+
+## Featured projects
+
+### GradTrack — Job Application Tracker
+
+A web app for tracking graduate job applications, deadlines, statuses, and notes.
+
+**Tech used:** React, TypeScript, Vite, CSS
+
+Key features:
+- Add, edit, and delete job applications
+- Track application status
+- Filter and search applications
+- Deadline tracking
+- CSV export
+- Dark/light mode
+- Local storage persistence
+
+### Tkinter Code Editor
+
+A desktop code editor built with Python and Tkinter.
+
+**Tech used:** Python, Tkinter
+
+Key features:
+- Multi-tab editor
+- File open/save support
+- Basic code editing interface
+- Run Python files from the app
+- Simple desktop GUI design
+
+## Tech stack
+
+- Python
+- Tkinter
+- JavaScript
+- TypeScript
+- React
+- HTML
+- CSS
+- Git and GitHub
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/jad-nader
+- GitHub: https://github.com/jadanado2003
